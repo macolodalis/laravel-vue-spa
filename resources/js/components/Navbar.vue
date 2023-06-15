@@ -60,7 +60,7 @@
 
 <script>
 import { mapGetters } from 'vuex'
-import LocaleDropdown from './LocaleDropdown'
+import LocaleDropdown from './LocaleDropdown.vue'
 
 export default {
   components: {
